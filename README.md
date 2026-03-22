@@ -2,6 +2,8 @@
 Identification of deleterious SNPs in GBA1 gene and structural impact analysis using molecular dynamics simulations
 
 # Identification of Deleterious SNPs in GBA1 Gene and Structural Impact Analysis
+## 🚀 Key Result
+Identified deleterious SNPs in GBA1 gene that significantly destabilize protein structure, as confirmed through molecular dynamics simulations showing increased fluctuations and reduced stability in mutant variants.
 
 ## 🔬 Project Highlights
 - Analyzed 4922 SNPs in GBA1 gene to identify deleterious mutations
