@@ -65,22 +65,48 @@ A combination of sequence-based and structure-based computational tools were use
 ### RMSD
 ![RMSD](rmsd.png)
 
+RMSD analysis was performed to evaluate the overall structural stability of the protein during the simulation.  
+The mutant proteins exhibited higher RMSD values compared to the wild-type, indicating greater structural deviation over time.  
+This suggests reduced stability and conformational changes in the protein due to the presence of mutations.
+
 ### RMSF
 ![RMSF](rmsf.png)
+
+RMSF analysis was performed to evaluate residue-level flexibility of the protein.  
+The mutant variants exhibited higher fluctuations compared to the wild-type protein, indicating increased structural flexibility and potential instability in specific regions.  
+This suggests that mutations may disrupt local structural integrity and affect protein function.
 
 ### Radius of Gyration
 ![Rg](rg.png)
 
+The radius of gyration was analyzed to assess the compactness of the protein structure during simulation.  
+Mutant proteins showed variations in Rg values compared to the wild-type, indicating changes in structural compactness.  
+An increase in Rg suggests reduced folding stability and a more expanded protein conformation.
+
 ### SASA
 ![SASA](sasa.png)
+
+SASA analysis was conducted to evaluate the surface exposure of the protein to the solvent.  
+Mutant structures exhibited altered SASA values, indicating changes in protein folding and exposure of hydrophobic regions.  
+This suggests that mutations may lead to destabilization and affect protein–environment interactions.
 
 ### PCA
 ![PCA](pca.png)
 ![PCA1](pca1.png)
 
+PCA was performed to study large-scale conformational movements of the protein.  
+The projection plots revealed distinct conformational spaces for mutant and wild-type proteins.  
+Mutants showed greater conformational variation, indicating altered dynamic behavior and reduced structural stability.
+
 ### Free Energy Landscape
 ![FEL1](fel1.png)
 ![FEL2](fel2.png)
+
+The free energy landscape analysis was used to identify stable conformational states of the protein.  
+Mutant proteins displayed altered energy minima compared to the wild-type, indicating changes in stability and folding patterns.  
+These variations suggest that mutations may shift the protein toward less stable conformations.
+
+Overall, molecular dynamics analysis indicates that mutations lead to increased flexibility, reduced stability, and altered conformational behavior of the protein.
 
 ## 📊 Results
 
