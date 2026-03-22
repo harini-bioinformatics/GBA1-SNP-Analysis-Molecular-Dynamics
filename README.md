@@ -76,9 +76,11 @@ A combination of sequence-based and structure-based computational tools were use
 
 ### PCA
 ![PCA](pca.png)
+![PCA1](pca1.png)
 
 ### Free Energy Landscape
-![FEL](fel.png)
+![FEL1](fel1.png)
+![FEL2](fel2.png)
 
 ## 📊 Results
 
